@@ -77,30 +77,13 @@ python -m http.server 8000
 # luego visita http://localhost:8000
 ```
 
-## Publicar en GitHub Pages
-
-1. Crea un repositorio nuevo en GitHub.
-   - Para que sea tu página principal, nómbralo `TU-USUARIO.github.io`.
-2. Sube los archivos de este proyecto:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: primera versión del sitio"
-   git branch -M main
-   git remote add origin https://github.com/TU-USUARIO/NOMBRE-REPO.git
-   git push -u origin main
-   ```
-3. En GitHub ve a **Settings → Pages**.
-4. En *Source* elige **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-5. Espera 1–2 minutos. Tu sitio quedará en `https://TU-USUARIO.github.io/` (o `/NOMBRE-REPO/`).
-
 ## Estado
 
 En desarrollo. Ver [CHANGELOG.md](CHANGELOG.md).
 
 ## Contacto
 
-Discord: *(agrega aquí tu enlace de invitación)*
+Discord: *darkness.k7k*
 
 ## Licencia
 
