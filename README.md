@@ -83,8 +83,8 @@ En desarrollo. Ver [CHANGELOG.md](CHANGELOG.md).
 
 ## Contacto
 
-Discord: *darkness.k7k*
+Discord: *@darkness.k7k*
 
 ## Licencia
 
-Distribuido bajo licencia MIT. Ver [LICENSE](LICENSE).
+Distribuido bajo licencia Darknes$. Ver [LICENSE](LICENSE).
